@@ -10,4 +10,4 @@ I did a few livestreams and I receive good feedback from community.
 I've been working four years and I've been doing this while I was with perseverance getting more muscles because oh yeah, I was going to the gym. 
 
 Never in my life I felt more stronger and healthy in my life a quick background always I was the skinny and sick boy. I was living the live wish to have I leave my parent's house I can pay and buy anything I want 
-
+Thanks
