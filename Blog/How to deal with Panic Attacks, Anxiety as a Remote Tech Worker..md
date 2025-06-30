@@ -1,7 +1,9 @@
----js
-const title = "How to deal with Panic Attacks, Anxiety as a Remote Tech Worker. (draft)";
-const date = "2023-01-23";
-const draft = true;
+---
+title: How to deal with Panic Attacks, Anxiety as a Remote Tech Worker.
+date: 2023-06-30
+tags:
+  - healthcare
+description: A powerful personal journey of a 26-year-old software engineer from Ecuador who overcame anxiety, panic attacks, and depression while working remotely. Discover how therapy, mindfulness, and resilience helped him reclaim his life.
 ---
 
 It’s been a year since my nightmare began, and now I’m ready to write this story. A story about me. About how I fell down and how I got back up. About how someone's life can be destroyed in seconds. A story about how your own mind can become your worst enemy.
