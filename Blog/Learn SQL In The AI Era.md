@@ -1,11 +1,14 @@
----js
-const title = "How Switch my Career and be a Remote Tech Worker Change My Life. (draft)";
-const date = "2023-01-23";
-const draft = true;
+---
+title: SQL Has 230 Keywords – With AI, These Are the Only Ones You Need to Know!
+description: "Many believe that with AI tools, learning SQL is no longer necessary. The truth is different: SQL remains an essential skill for anyone working with data. Mastering the basics allows you to make the most of AI tools and solve problems in real time."
+date: 2025-08-21
+tags:
+  - databases
+seoImage: https://photos.jussmor.com/insights/blog/Learn%20SQL%20In%20the%20AI%20Era/principal.webp
 ---
 
 
-https://photos.jussmor.com/insights/blog/Learn%20SQL%20In%20the%20AI%20Era/principal.webp
+![](https://photos.jussmor.com/insights/blog/Learn%20SQL%20In%20the%20AI%20Era/principal.webp)
 
 
 
@@ -27,17 +30,17 @@ It’s the most widely used language for **querying, manipulating, and structuri
 Before diving into examples, let’s review the key building blocks of SQL:
 
 - **Queries:** Instructions to retrieve data from the database.
-    
+
 - **Clauses:** Parts of a query (e.g., SELECT, FROM, WHERE).
-    
+
 - **Predicates:** Logical conditions that return true or false.
-    
+
 - **Expressions:** Values or calculations used inside queries.
-    
+
 - **Statements:** Complete blocks of code that perform an action.
-    
+
 - **White Space:** Spaces, tabs, and line breaks that make code readable (ignored by SQL).
-    
+
 
 ##  Creating Databases and Tables
 
@@ -46,17 +49,17 @@ Before diving into examples, let’s review the key building blocks of SQL:
 Depending on the database engine, syntax may vary:
 
 - **MySQL:** Allows character sets and collations.
-    
-    ```sql
+
+  ```sql
     CREATE DATABASE my_database_name 
     CHARACTER SET utf8mb4 
-    COLLATE utf8mb4_unicode_ci;
+   COLLATE utf8mb4_unicode_ci;
     ```
-    
+
 - **SQL Server:** Often includes file specifications and configurations.
-    
+
 - **PostgreSQL:** Offers flexible encoding and settings.
-    
+
 
 ### Create a Table
 
@@ -122,26 +125,30 @@ WHERE CustomerID = 1;
 Once you’ve mastered the essentials, explore advanced SQL concepts:
 
 - **Joins:** Combine data from multiple tables (INNER, LEFT, RIGHT, FULL, CROSS).
-    
+
 - **Subqueries:** Queries nested inside other queries.
-    
+
 - **Aggregate Functions:** `COUNT`, `SUM`, `AVG`, `MIN`, `MAX` with `GROUP BY`.
-    
+
 - **Window Functions:** Advanced calculations across related rows.
-    
+
 - **CTEs (Common Table Expressions):** Temporary result sets for reuse.
-    
+
 - **Recursive Queries:** Handle hierarchical data structures.
-    
+
 
 ---
 
 ##  Recommended Resources
 
-- 📄 Download my **SQL Cheat Sheet** (link)
-    
+- 📄 Download my **SQL Cheat Sheet** ([Download the Cheat Sheet HERE!](https://photos.jussmor.com/insights/blog/Cheat%20sheet/pdf/SQL.pdf))
+
+![](https://photos.jussmor.com/insights/blog/Cheat%20sheet/SQL%201.png)
+
+
+
 - 📖 _Learning SQL_ by Alan Beaulieu (great for beginners and advanced users).
-    
+
 
 ---
 
@@ -150,10 +157,10 @@ Once you’ve mastered the essentials, explore advanced SQL concepts:
 SQL is far from obsolete — it’s still the **universal language of data**. By learning it, you’ll be able to:
 
 - Respond quickly to data requests at work.
-    
-- Complement the power of AI tools.
-    
-- Build a solid foundation for roles like analyst, engineer, or data scientist.
-    
 
-👉 What SQL topic are you most interested in? Leave a comment below, and I’ll cover it in future posts!
+- Complement the power of AI tools.
+
+- Build a solid foundation for roles like analyst, engineer, or data scientist.
+
+
+👉 What SQL topic are you most interested in? DM me if you have questions or visit my [LinkendIn ](https://www.linkedin.com/in/jussmor/)
