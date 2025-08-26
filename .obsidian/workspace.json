@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cf00c9d8270bbc88",
+        "id": "9765341404fa0664",
         "type": "tabs",
         "children": [
           {
-            "id": "d2d488c9b11f2800",
+            "id": "0879d32960289c1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/Template.md",
+                "file": "Blog/Learn Docker in the AI Era.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Template"
+              "title": "Learn Docker in the AI Era"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/Template.md",
+                "file": "Blog/Crafting My Blog Oasis; Empowering With Qwik, Nx, And Basehub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Template"
+              "title": "Backlinks for Crafting My Blog Oasis; Empowering With Qwik, Nx, And Basehub"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/Template.md",
+                "file": "Blog/Crafting My Blog Oasis; Empowering With Qwik, Nx, And Basehub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Template"
+              "title": "Outgoing links from Crafting My Blog Oasis; Empowering With Qwik, Nx, And Basehub"
             }
           },
           {
@@ -142,13 +142,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/Template.md",
+                "file": "Blog/Crafting My Blog Oasis; Empowering With Qwik, Nx, And Basehub.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Template"
+              "title": "Outline of Crafting My Blog Oasis; Empowering With Qwik, Nx, And Basehub"
+            }
+          },
+          {
+            "id": "6307c83c5fdb9bca",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -169,15 +183,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "d2d488c9b11f2800",
+  "active": "0879d32960289c1a",
   "lastOpenFiles": [
-    "Blog/Revealing The Deployment Secrets Of Cloudflare And Qwik.md",
+    "Blog/Learn Docker in the AI Era.md",
+    "2025-08-26.md",
     "Blog/Learn SQL In The AI Era.md",
-    "Blog/Template.md",
-    "Blog/How To Perform Json-RPC Calls To The Ethereum Blockchain..md",
-    "Blog/From Confusion To Clarity; Understanding Web3 From A Developer's Perspective..md",
+    "Blog/Revealing The Deployment Secrets Of Cloudflare And Qwik.md",
     "Blog/How to deal with Panic Attacks, Anxiety as a Remote Tech Worker..md",
+    "Blog/How To Perform Json-RPC Calls To The Ethereum Blockchain..md",
+    "Blog/Template.md",
+    "Untitled.md",
+    "Untitled",
+    "Blog/4 Years as a Remote Tech Worker; My Journey.md",
     "Blog/Crafting My Blog Oasis; Empowering With Qwik, Nx, And Basehub.md",
-    "Blog/4 Years as a Remote Tech Worker; My Journey.md"
+    "Blog/From Confusion To Clarity; Understanding Web3 From A Developer's Perspective..md"
   ]
 }
