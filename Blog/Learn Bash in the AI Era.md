@@ -11,11 +11,7 @@ tags:
 seolink: https://photos.jussmor.com/insights/blog/learn%20bash%20in%20the%20AI%20Era/image.webp
 ---
 
----js
-const title = "How Switch my Career and be a Remote Tech Worker Change My Life. (draft)";
-const date = "2023-01-23";
-const draft = true;
----
+
 
 ![](https://photos.jussmor.com/insights/blog/learn%20bash%20in%20the%20AI%20Era/image.webp)
 # Learn Bash in the AI Era: Essential Commands & Cheat Sheet (2025 Guide)  
@@ -46,49 +42,49 @@ Like SQL has queries and clauses, Bash has a few fundamentals:
 
 **Check current directory:**  
 
-```
+```bash
 bash pwd 
 ```
 
 **List files:**
 
-```
+```bash
 ls -la
 ```
 
 **Change directory:**
 
-```
+```bash
 cd /path/to/folder
 ```
 
 **Create a directory:**
 
-```
+```bash
 mkdir projects
 ```
 
 **Create an empty file:**
 
-```
+```bash
 touch notes.txt
 ```
 
 **Copy a file:**
 
-```
+```bash
 cp notes.txt backup.txt
 ```
 
 **Move or rename a file:**
 
-```
+```bash
 mv notes.txt archive.txt
 ```
 
 **Delete a file or folder:**
 
-```
+```bash
 rm notes.txt
 rm -r projects/
 ```
@@ -96,31 +92,20 @@ rm -r projects/
 ##  Advanced Bash Concepts Worth Mastering
 
 - **Pipes and Redirection:** Combine commands (`cat file.txt | grep "error"`).
-    
 - **Wildcards & Globbing:** Match files with patterns (`*.txt`).
-    
 - **Variables:** Store values (`NAME="Junior"`).
-    
 - **Loops:** Automate repetition (`for file in *.txt; do echo $file; done`).
-    
 - **Conditionals:** Run logic (`if [ -f file.txt ]; then echo "Exists"; fi`).
-    
 - **Functions:** Reusable code blocks inside scripts.
-    
 - **Scripting:** Automate tasks with `.sh` scripts and `#!/bin/bash`.
-    
 
 
 ## Bash + AI: Real-World Scenarios
 
 - **AI-generated commands:** Tools like ChatGPT can suggest Bash one-liners, but you must verify and adapt them.
-    
 - **Automating AI workflows:** Run preprocessing, training, and deployment steps with Bash scripts.
-    
 - **System automation:** Schedule jobs with `cron` to retrain models or clean logs.
-    
 - **Data wrangling:** Use Bash + `awk`, `sed`, or `grep` for quick data transformations.
-    
 
 ## Recommended Resources
 
@@ -131,12 +116,8 @@ rm -r projects/
 Bash is not just an old shell—it’s the **backbone of automation**. Mastering it empowers you to:
 
 - Work faster on **Linux, macOS, and servers**.
-    
 - Automate **repetitive tasks** with one-liners or scripts.
-    
 - Integrate with **Docker, Git, AI pipelines, and cloud services**.
-    
 - Understand and refine **AI-suggested commands** instead of blindly trusting them.
-    
 
-> If SQL is the language of data and Docker is the language of infrastructure, **Bash is the language of automation**.
+

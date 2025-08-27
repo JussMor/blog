@@ -45,37 +45,37 @@ Think of Docker like building blocks:
 
 ### Check installation
 
-```
+```bash
 docker --version
 ```
 
 **Run your first container:**
 
-```
+```bash
 docker run hello-world
 ```
 
 **List containers:**
 
-```
+```bash
 docker ps -a
 ```
 
 **Build an image from a Dockerfile:**
 
-``` 
+```bash 
 docker build -t my-app .
 ```
 
 **Run an app container with ports:**
 
-```
+```bash
 docker run -d -p 3000:3000 my-app
 ```
 
 **Manage containers and images:**
 
-``` 
+```bash 
 docker stop <container_id> 
 docker rm <container_id> 
 docker rmi <image_id>
@@ -90,7 +90,7 @@ docker rmi <image_id>
 - **Kubernetes integration:** Orchestrate containers at scale.
 - **Best practices:** Minimize base images, scan vulnerabilities, manage secrets.
 
-```
+```yml
 # docker-compose.yml
 
 services:
