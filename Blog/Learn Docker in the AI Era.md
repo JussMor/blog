@@ -21,7 +21,7 @@ const draft = true;
 
 ![](https://photos.jussmor.com/insights/blog/Learn%20docker%20IA/DockerForData.webp)
 
-#  Learn Docker in the AI Era: Essential Commands & Cheat Sheet (2025 Guide)
+# Learn Docker in the AI Era: Essential Commands & Cheat Sheet (2025 Guide)
 
 
 **Meta description (SEO):** *Master Docker’s most important commands for AI and DevOps. Learn how containers power modern apps, explore advanced concepts, and download our free Docker Cheat Sheet to boost your workflow.*
@@ -125,7 +125,7 @@ This is where it gets exciting. AI isn’t replacing Docker—it’s acceleratin
 
 ## Recommended Resources
 
-- 📄 Download my **SQL Cheat Sheet** 
+- 📄 Download my **Docker Cheat Sheet** 
 ![](https://photos.jussmor.com/insights/blog/Cheat%20sheet/Docker%202.pdf)
 
 ## ✅ Conclusion
