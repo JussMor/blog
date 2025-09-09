@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/Learn Docker in the AI Era.md",
+                "file": "Blog/ETL vs. ELT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learn Docker in the AI Era"
+              "title": "ETL vs. ELT"
             }
           }
         ],
@@ -202,10 +202,11 @@
   "lastOpenFiles": [
     "Blog/Learn Bash in the AI Era.md",
     "Blog/Learn Docker in the AI Era.md",
-    "Blog/How To Perform Json-RPC Calls To The Ethereum Blockchain..md",
     "Blog/Learn SQL In The AI Era.md",
-    "Blog/Revealing The Deployment Secrets Of Cloudflare And Qwik.md",
+    "Blog/ETL vs. ELT.md",
     "Blog/Template.md",
+    "Blog/How To Perform Json-RPC Calls To The Ethereum Blockchain..md",
+    "Blog/Revealing The Deployment Secrets Of Cloudflare And Qwik.md",
     "2025-08-26.md",
     "Blog/How to deal with Panic Attacks, Anxiety as a Remote Tech Worker..md",
     "Untitled.md",

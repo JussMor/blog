@@ -125,7 +125,7 @@ rm -r projects/
 ## Recommended Resources
 
 - 📄 Download my **Bash Cheat Sheet** 
-
+([Download the Cheat Sheet HERE!](https://photos.jussmor.com/insights/blog/Cheat%20sheet/BASH%201.pdf))
 ##  Conclusion
 
 Bash is not just an old shell—it’s the **backbone of automation**. Mastering it empowers you to:
