@@ -45,37 +45,37 @@ Think of Docker like building blocks:
 
 ### Check installation
 
-```
+```bash
 docker --version
 ```
 
 **Run your first container:**
 
-```
+```bash
 docker run hello-world
 ```
 
 **List containers:**
 
-```
+```bash
 docker ps -a
 ```
 
 **Build an image from a Dockerfile:**
 
-``` 
+```bash 
 docker build -t my-app .
 ```
 
 **Run an app container with ports:**
 
-```
+```bash
 docker run -d -p 3000:3000 my-app
 ```
 
 **Manage containers and images:**
 
-``` 
+```bash 
 docker stop <container_id> 
 docker rm <container_id> 
 docker rmi <image_id>
@@ -90,7 +90,7 @@ docker rmi <image_id>
 - **Kubernetes integration:** Orchestrate containers at scale.
 - **Best practices:** Minimize base images, scan vulnerabilities, manage secrets.
 
-```
+```yml
 # docker-compose.yml
 
 services:
@@ -134,11 +134,9 @@ This is where it gets exciting. AI isn’t replacing Docker. it’s accelerating
 
 ## Recommended Resources
 
- HEAD
-- 📄 Download my **Docker Cheat Sheet** 
-![](https://photos.jussmor.com/insights/blog/Cheat%20sheet/DOCKER_.pdf)
 
-- 📄 Download my **SQL Cheat Sheet**  ([Download the Cheat Sheet HERE!](https://photos.jussmor.com/insights/blog/Cheat%20sheet/Docker%202.pdf)) e169cc49854caf0a475d058144e004ed0147ba02
+
+- 📄 Download my **Docker Cheat Sheet**  ([Download the Cheat Sheet HERE!](https://photos.jussmor.com/insights/blog/Cheat%20sheet/DOCKER_.pdf)) 
 
 ##  Conclusion
 
