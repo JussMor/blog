@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/ETL vs. ELT.md",
+                "file": "Blog/Data Lake House 101.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ETL vs. ELT"
+              "title": "Data Lake House 101"
             }
           }
         ],
@@ -200,11 +200,13 @@
   },
   "active": "2d92d21d15187853",
   "lastOpenFiles": [
-    "Blog/Learn Bash in the AI Era.md",
+    "Blog/ETL vs. ELT.md",
+    "Blog/Data Lake House 101.md",
+    "Blog/Template.md",
     "Blog/Learn Docker in the AI Era.md",
     "Blog/Learn SQL In The AI Era.md",
-    "Blog/ETL vs. ELT.md",
-    "Blog/Template.md",
+    "Blog/From Confusion To Clarity; Understanding Web3 From A Developer's Perspective..md",
+    "Blog/Learn Bash in the AI Era.md",
     "Blog/How To Perform Json-RPC Calls To The Ethereum Blockchain..md",
     "Blog/Revealing The Deployment Secrets Of Cloudflare And Qwik.md",
     "2025-08-26.md",
@@ -212,7 +214,6 @@
     "Untitled.md",
     "Untitled",
     "Blog/4 Years as a Remote Tech Worker; My Journey.md",
-    "Blog/Crafting My Blog Oasis; Empowering With Qwik, Nx, And Basehub.md",
-    "Blog/From Confusion To Clarity; Understanding Web3 From A Developer's Perspective..md"
+    "Blog/Crafting My Blog Oasis; Empowering With Qwik, Nx, And Basehub.md"
   ]
 }
