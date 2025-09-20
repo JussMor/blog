@@ -4,21 +4,11 @@ description: A clear comparison between ETL and ELT pipelines, their differences
 date: 2025-09-09
 tags:
   - data
-  - analytics
   - pipelines
-  - ETL
-  - ELT
   - cloud
-  - modern-data-stack
-link: https://www.jussmor.com/insights/blog/etl-vs-elt
+seoImage: https://photos.jussmor.com/insights/blog/ELT%2C%20ETL/ELTVSETL.png
 ---
 
-
----js
-const title = "How Switch my Career and be a Remote Tech Worker Change My Life. (draft)";
-const date = "2023-01-23";
-const draft = true;
----
 ![](https://photos.jussmor.com/insights/blog/ELT%2C%20ETL/ELTVSETL.png)
 # Which Data Pipeline Wins? ETL vs. ELT
 
