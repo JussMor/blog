@@ -11,9 +11,6 @@ seoImage: https://photos.jussmor.com/insights/blog/Learn%20SQL%20In%20the%20AI%2
 ![](https://photos.jussmor.com/insights/blog/Learn%20SQL%20In%20the%20AI%20Era/principal.webp)
 
 
-
-# SQL Has 230 Keywords – With AI, These Are the Only Ones You Need to Know!
-
 ##  Will AI Replace SQL Knowledge?
 
 Many believe that with AI tools, learning SQL is no longer necessary. The truth is different: **SQL remains an essential skill** for anyone working with data. Mastering the basics allows you to make the most of AI tools and solve problems in real time.
@@ -89,13 +86,9 @@ ORDER BY LastName ASC;
 ```
 
 - `SELECT`: columns to retrieve
-    
 - `FROM`: source table
-    
 - `WHERE`: filters results
-    
 - `ORDER BY`: sorts results
-    
 
 ### Insert Data
 
@@ -144,7 +137,7 @@ Once you’ve mastered the essentials, explore advanced SQL concepts:
 
 - 📄 Download my **SQL Cheat Sheet** ([Download the Cheat Sheet HERE!](https://photos.jussmor.com/insights/blog/Cheat%20sheet/pdf/SQL.pdf))
 
-![](https://photos.jussmor.com/insights/blog/Cheat%20sheet/SQL%201.png)
+![](https://photos.jussmor.com/insights/blog/Cheat%20sheet/SQL%201.webp)
 
 
 

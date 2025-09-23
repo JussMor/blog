@@ -1,25 +1,17 @@
 ---
 title: "Data Lakehouse 101: A Simple Guide for 12-Year-Olds!"
 description: An easy-to-understand guide to data lakehouses, explaining how they combine the flexibility of data lakes with the organization of data warehouses.
-date: 2025-09-09
+date: 2025-09-16
 tags:
   - data
   - analytics
   - cloud
   - modern-data-stack
-link: https://www.jussmor.com/insights/blog/data-lakehouse-101
-seoImage: https://www.jussmor.com/assets/images/blog/data-lakehouse-101-cover.png
+seoImage: https://photos.jussmor.com/insights/blog/data%20lakehouse/DataLake.png
 ---
 
 
-
-![](https://photos.jussmor.com/data%20lakehouse/DataLake.png)
----js
-const title = "How Switch my Career and be a Remote Tech Worker Change My Life. (draft)";
-const date = "2023-01-23";
-const draft = true;
----
-# Data Lakehouse 101: A Simple Guide for Everyone
+![](https://photos.jussmor.com/insights/blog/data%20lakehouse/DataLake.png)
 
 In today’s information-driven world, organizations are drowning in data. To make sense of it and gain valuable insights, they need efficient ways to **store, manage, and access information**. Think of it like a massive library and archive: to make the most of all that knowledge, we need a system that’s both **comprehensive and organized**. This is where the concept of a **data lakehouse** comes in.  
 
