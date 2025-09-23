@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/Data Lake House 101.md",
+                "file": "Blog/AI Agents Explained.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Lake House 101"
+              "title": "AI Agents Explained"
             }
           }
         ],
@@ -202,7 +202,10 @@
   "lastOpenFiles": [
     "Blog/ETL vs. ELT.md",
     "Blog/Data Lake House 101.md",
+    "Blog/AI Agents Explained.md",
     "Blog/Template.md",
+    "Blog/Crafting My Blog Oasis; Empowering With Qwik, Nx, And Basehub.md",
+    "Blog/Data Engineering.md",
     "Blog/Learn Docker in the AI Era.md",
     "Blog/Learn SQL In The AI Era.md",
     "Blog/From Confusion To Clarity; Understanding Web3 From A Developer's Perspective..md",
@@ -213,7 +216,6 @@
     "Blog/How to deal with Panic Attacks, Anxiety as a Remote Tech Worker..md",
     "Untitled.md",
     "Untitled",
-    "Blog/4 Years as a Remote Tech Worker; My Journey.md",
-    "Blog/Crafting My Blog Oasis; Empowering With Qwik, Nx, And Basehub.md"
+    "Blog/4 Years as a Remote Tech Worker; My Journey.md"
   ]
 }
