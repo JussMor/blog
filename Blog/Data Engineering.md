@@ -1,28 +1,16 @@
 ---
 title: What is Data Engineering?
 description: A clear guide to data engineering, explaining its origins, purpose, and how it powers modern data-driven organizations.
-date: 2025-09-23
+date: 2025-10-14
 tags:
   - analytics
-  - ETL
-  - pipelines
   - cloud
   - AI
-link: https://www.jussmor.com/insights/blog/what-is-data-engineering
 seoImage: https://www.jussmor.com/assets/images/blog/what-is-data-engineering-cover.png
 ---
 
 ![](https://photos.jussmor.com/insights/blog/Data%20ING/What%20is%20Data%20Eng.png)
 
-
----js
-const title = "How Switch my Career and be a Remote Tech Worker Change My Life. (draft)";
-const date = "2023-01-23";
-const draft = true;
----
-
-
-# Data Engineering
 
 We live in an era overflowing with data.  
 From social media to smart devices, information is generated at an unprecedented pace.  
@@ -30,14 +18,6 @@ But raw data alone is like a messy room: it's there, but not very useful.
 
 **Data engineering** is the discipline that collects, processes, and organizes this data to make it **useful and accessible**.  
 Data engineers build the pipelines that move information from multiple sources to storage systems, making it ready for analysis, machine learning, and decision-making.
-
-
-## About Me
-
-I'm **Juss**, a programmer and data enthusiast.  
-I used to work remotely as a software engineer for U.S. companies, but I shifted my focus to community projects.  
-I believe data is more than numbers: it's a tool for positive impact.
-
 
 ## History and Origins
 
